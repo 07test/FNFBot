@@ -47,3 +47,5 @@ Currently the keybinds are as follows:
 
 Offset = the amount of time in miliseconds to hit before/after the note time.
 Default: 25
+
+### If FNF Bot dosent work try reinstalling it
